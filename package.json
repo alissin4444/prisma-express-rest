@@ -1,0 +1,7 @@
+{
+  "name": "prisma-rest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "alissin4444 <dev.alissonsantos@gmail.com>",
+  "license": "MIT"
+}
